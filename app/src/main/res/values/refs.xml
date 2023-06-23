@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_image_1">Image</drawable>
+    <drawable name="ic_image_2">Image</drawable>
+    <drawable name="ic_image_3">Image</drawable>
+    <drawable name="ic_image_4">Image</drawable>
+    <drawable name="ic_image_5">Image</drawable>
+    <drawable name="ic_image_6">Image</drawable>
+</resources>
